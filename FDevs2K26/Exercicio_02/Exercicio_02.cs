@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Reflection;
 
 /*
 2) Crie um programa em C# que calcule o indice de massa corporal (IMC). Solicite ao usuario que insira seu peso (em quilogras) e sua altura (em metros). o IMC é calculado pela formula:IMC = peso / (altura * altura). Exiba o resultado no console.indicando a faixa de classificação. 
