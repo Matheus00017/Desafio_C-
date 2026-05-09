@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Aprendendo_PHP\\Matheus00017\\FDevs2K26\\Exercicio_01\\Exercicio_01.csproj": {}
+    "C:\\Users\\Matheus\\Desktop\\Programações\\Desafios_C#\\Desafio_C#\\FDevs2K26\\Exercicio_01\\Exercicio_01.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Aprendendo_PHP\\Matheus00017\\FDevs2K26\\Exercicio_01\\Exercicio_01.csproj": {
+    "C:\\Users\\Matheus\\Desktop\\Programações\\Desafios_C#\\Desafio_C#\\FDevs2K26\\Exercicio_01\\Exercicio_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Aprendendo_PHP\\Matheus00017\\FDevs2K26\\Exercicio_01\\Exercicio_01.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Programações\\Desafios_C#\\Desafio_C#\\FDevs2K26\\Exercicio_01\\Exercicio_01.csproj",
         "projectName": "Exercicio_01",
-        "projectPath": "C:\\xampp\\htdocs\\Aprendendo_PHP\\Matheus00017\\FDevs2K26\\Exercicio_01\\Exercicio_01.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Desktop\\Programações\\Desafios_C#\\Desafio_C#\\FDevs2K26\\Exercicio_01\\Exercicio_01.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Aprendendo_PHP\\Matheus00017\\FDevs2K26\\Exercicio_01\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Desktop\\Programações\\Desafios_C#\\Desafio_C#\\FDevs2K26\\Exercicio_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
